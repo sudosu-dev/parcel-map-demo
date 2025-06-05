@@ -30,7 +30,7 @@ An interactive mapping application for exploring oil and gas properties in Oklah
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/parcel-map-demo.git
+   git clone https://github.com/sudosu-dev/parcel-map-demo.git
    cd parcel-map-demo
    ```
 
